@@ -1,0 +1,62 @@
+<?xml version="1.0" ?> 
+<layout version="1.0" horizgap="0.1" vertgap="0.1" ltr="true">
+<row scale="1.0">
+	<key shape="square" type="numlock" homekey="false" size="1">
+	</key>
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="9">
+		<value when="normal" draw="true">/</value>
+	</key>
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="10">
+		<value when="normal" draw="true">*</value>
+	</key>
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="14">
+		<value when="normal" draw="true">-</value>
+	</key>
+</row>
+<row scale="1.0">
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="8">
+		<value when="normal" draw="true">7</value>
+	</key>
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="9">
+		<value when="normal" draw="true">8</value>
+	</key>
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="10">
+		<value when="normal" draw="true">9</value>
+	</key>
+	<key shape="rect" type="normal" homekey="false" size="1;2.1" homeindex="14">
+		<value when="normal" draw="true">+</value>
+	</key>
+</row>
+<row scale="1.0">
+	<key shape="square" type="normal" homekey="true" size="1">
+		<value when="normal" draw="true">4</value>
+	</key>
+	<key shape="square" type="normal" homekey="true" size="1">
+		<value when="normal" draw="true">5</value>
+	</key>
+	<key shape="square" type="normal" homekey="true" size="1">
+		<value when="normal" draw="true">6</value>
+	</key>
+</row>
+<row scale="1.0">
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="8">
+		<value when="normal" draw="true">1</value>
+	</key>
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="9">
+		<value when="normal" draw="true">2</value>
+	</key>
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="10">
+		<value when="normal" draw="true">3</value>
+	</key>
+	<key shape="rect" type="enter" homekey="true" size="1;2.1">
+	</key>
+</row>
+<row scale="1.0">
+	<key shape="rect" type="normal" homekey="false" size="2.1;1">
+		<value when="normal" draw="true">0</value>
+	</key>
+	<key shape="square" type="normal" homekey="false" size="1" homeindex="10">
+		<value when="normal" draw="true">.</value>
+	</key>
+</row>
+</layout>
